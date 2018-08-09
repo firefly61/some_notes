@@ -1,6 +1,8 @@
-issue:Can't bind to 'formGroup' since it isn't a known property of 'form'
+## issue:Can't bind to 'formGroup' since it isn't a known property of 'form'
 
-handle: 
+## handle
+ 
+ 
   import { NgModule } from '@angular/core';
   import { BrowserModule } from '@angular/platform-browser';
   import { FormsModule, ReactiveFormsModule } from '@angular/forms';
