@@ -1,0 +1,14 @@
+.circle {
+    color: rgba(222, 101, 110, 1);
+    width: 100px;
+    height: 100px;
+    border-radius: 54%;
+    font-size: 28px;
+    border-top: 6px solid rgba(222, 101, 110, 1);
+    border-right: 6px solid rgba(222, 101, 110, 1);
+    border-left: 6px solid rgba(222, 101, 110, 1);
+    text-align: center;
+}
+i {
+    font-size: 12px; 
+}
